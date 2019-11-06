@@ -1,0 +1,2 @@
+# res
+personal blog resources
